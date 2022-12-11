@@ -73,9 +73,21 @@
   <data name="&gt;&gt;AddButton.Name" xml:space="preserve">
     <value>AddButton</value>
   </data>
+  <data name="ChoicecomboBox.Items1" xml:space="preserve">
+    <value>2</value>
+  </data>
+  <data name="ChoicecomboBox.Items2" xml:space="preserve">
+    <value>3</value>
+  </data>
+  <data name="ChoicecomboBox.Items3" xml:space="preserve">
+    <value>4</value>
+  </data>
   <assembly alias="System.Drawing" name="System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
   <data name="StartButton.Size" type="System.Drawing.Size, System.Drawing">
     <value>273, 30</value>
+  </data>
+  <data name="ChoicecomboBox.Size" type="System.Drawing.Size, System.Drawing">
+    <value>273, 25</value>
   </data>
   <assembly alias="mscorlib" name="mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
   <data name="ChoicecomboBox.TabIndex" type="System.Int32, mscorlib">

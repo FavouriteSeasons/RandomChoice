@@ -105,6 +105,7 @@
             this.statusStrip1.Items.AddRange(new System.Windows.Forms.ToolStripItem[] {
             this.Status,
             this.ProgressBar});
+            resources.ApplyResources(this.statusStrip1, "statusStrip1");
             this.statusStrip1.Name = "statusStrip1";
             this.toolTip1.SetToolTip(this.statusStrip1, resources.GetString("statusStrip1.ToolTip"));
             // 
@@ -113,12 +114,14 @@
             resources.ApplyResources(this.Status, "Status");
             this.Status.AutoToolTip = true;
             this.Status.Name = "Status";
+            resources.ApplyResources(this.Status, "Status");
             // 
             // ProgressBar
             // 
             resources.ApplyResources(this.ProgressBar, "ProgressBar");
             this.ProgressBar.AutoToolTip = true;
             this.ProgressBar.Name = "ProgressBar";
+            resources.ApplyResources(this.ProgressBar, "ProgressBar");
             // 
             // Form1
             // 
