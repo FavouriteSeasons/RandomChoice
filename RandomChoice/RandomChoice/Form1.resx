@@ -57,40 +57,53 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
+  <data name="&gt;&gt;StringBox.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TextBox, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
   <data name="&gt;&gt;DELButton.ZOrder" xml:space="preserve">
     <value>0</value>
   </data>
+  <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
+  <data name="ChoicecomboBox.Anchor" type="System.Windows.Forms.AnchorStyles, System.Windows.Forms">
+    <value>None</value>
+  </data>
+  <data name="&gt;&gt;statusStrip1.Type" xml:space="preserve">
+    <value>System.Windows.Forms.StatusStrip, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;AddButton.Name" xml:space="preserve">
+    <value>AddButton</value>
+  </data>
   <assembly alias="System.Drawing" name="System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
-  <data name="$this.AutoScaleDimensions" type="System.Drawing.SizeF, System.Drawing">
-    <value>7, 17</value>
-  </data>
-  <data name="&gt;&gt;StartButton.Type" xml:space="preserve">
-    <value>System.Windows.Forms.Button, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="StringBox.Location" type="System.Drawing.Point, System.Drawing">
-    <value>7, 381</value>
-  </data>
-  <data name="ChoicecomboBox.Items" xml:space="preserve">
-    <value>1</value>
-  </data>
-  <data name="statusStrip1.Text" xml:space="preserve">
-    <value>statusStrip1</value>
+  <data name="StartButton.Size" type="System.Drawing.Size, System.Drawing">
+    <value>273, 30</value>
   </data>
   <assembly alias="mscorlib" name="mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
-  <data name="StringBox.TabIndex" type="System.Int32, mscorlib">
-    <value>10</value>
+  <data name="ChoicecomboBox.TabIndex" type="System.Int32, mscorlib">
+    <value>0</value>
   </data>
-  <data name="&gt;&gt;ChoicelistBox.Parent" xml:space="preserve">
+  <data name="&gt;&gt;StringBox.ZOrder" xml:space="preserve">
+    <value>2</value>
+  </data>
+  <data name="StartButton.TabIndex" type="System.Int32, mscorlib">
+    <value>7</value>
+  </data>
+  <data name="AddButton.Size" type="System.Drawing.Size, System.Drawing">
+    <value>25, 23</value>
+  </data>
+  <data name="AddButton.TabIndex" type="System.Int32, mscorlib">
+    <value>9</value>
+  </data>
+  <data name="ChoicelistBox.Size" type="System.Drawing.Size, System.Drawing">
+    <value>273, 310</value>
+  </data>
+  <data name="ChoicelistBox.Anchor" type="System.Windows.Forms.AnchorStyles, System.Windows.Forms">
+    <value>None</value>
+  </data>
+  <data name="ProgressBar.ToolTipText" xml:space="preserve">
+    <value>Command Progress</value>
+  </data>
+  <data name="&gt;&gt;StartButton.Parent" xml:space="preserve">
     <value>$this</value>
-  </data>
-  <data name="&gt;&gt;StringBox.Parent" xml:space="preserve">
-    <value>$this</value>
-  </data>
-  <data name="statusStrip1.TabIndex" type="System.Int32, mscorlib">
-    <value>11</value>
-  </data>
-  <data name="ChoicelistBox.TabIndex" type="System.Int32, mscorlib">
-    <value>5</value>
   </data>
   <data name="DELButton.TabIndex" type="System.Int32, mscorlib">
     <value>12</value>
@@ -98,120 +111,92 @@
   <data name="ChoicecomboBox.Items2" xml:space="preserve">
     <value>3</value>
   </data>
-  <data name="&gt;&gt;StringBox.Name" xml:space="preserve">
-    <value>StringBox</value>
-  </data>
-  <data name="statusStrip1.Size" type="System.Drawing.Size, System.Drawing">
-    <value>290, 22</value>
-  </data>
-  <data name="ChoicelistBox.Location" type="System.Drawing.Point, System.Drawing">
-    <value>7, 33</value>
-  </data>
-  <data name="StartButton.Text" xml:space="preserve">
-    <value>开始</value>
-  </data>
-  <data name="&gt;&gt;toolTip1.Type" xml:space="preserve">
-    <value>System.Windows.Forms.ToolTip, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="AddButton.Text" xml:space="preserve">
-    <value>+</value>
-  </data>
-  <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
-  <data name="AddButton.Anchor" type="System.Windows.Forms.AnchorStyles, System.Windows.Forms">
-    <value>None</value>
-  </data>
-  <data name="&gt;&gt;StartButton.Name" xml:space="preserve">
-    <value>StartButton</value>
-  </data>
-  <data name="AddButton.Location" type="System.Drawing.Point, System.Drawing">
-    <value>231, 381</value>
-  </data>
-  <data name="$this.Text" xml:space="preserve">
-    <value>RandomChoice</value>
-  </data>
-  <data name="StringBox.ToolTip" xml:space="preserve">
-    <value>[输入]字符串</value>
-  </data>
-  <data name="ChoicelistBox.Size" type="System.Drawing.Size, System.Drawing">
-    <value>273, 310</value>
-  </data>
-  <data name="&gt;&gt;StringBox.ZOrder" xml:space="preserve">
-    <value>2</value>
-  </data>
-  <data name="&gt;&gt;statusStrip1.Parent" xml:space="preserve">
-    <value>$this</value>
-  </data>
-  <data name="&gt;&gt;statusStrip1.ZOrder" xml:space="preserve">
-    <value>1</value>
-  </data>
-  <data name="&gt;&gt;DELButton.Type" xml:space="preserve">
-    <value>System.Windows.Forms.Button, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="ChoicecomboBox.Items3" xml:space="preserve">
-    <value>4</value>
-  </data>
-  <data name="&gt;&gt;DELButton.Name" xml:space="preserve">
-    <value>DELButton</value>
-  </data>
-  <data name="ChoicelistBox.Items1" xml:space="preserve">
-    <value>2</value>
-  </data>
-  <data name="AddButton.TabIndex" type="System.Int32, mscorlib">
-    <value>9</value>
-  </data>
   <data name="&gt;&gt;ProgressBar.Type" xml:space="preserve">
     <value>System.Windows.Forms.ToolStripProgressBar, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
-  <data name="&gt;&gt;Status.Type" xml:space="preserve">
-    <value>System.Windows.Forms.ToolStripStatusLabel, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  <data name="&gt;&gt;ChoicecomboBox.Parent" xml:space="preserve">
+    <value>$this</value>
   </data>
-  <data name="StartButton.Location" type="System.Drawing.Point, System.Drawing">
-    <value>7, 349</value>
+  <data name="ChoicecomboBox.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
   </data>
-  <data name="AddButton.ToolTip" xml:space="preserve">
-    <value>添加选项</value>
-  </data>
-  <data name="StringBox.Anchor" type="System.Windows.Forms.AnchorStyles, System.Windows.Forms">
+  <data name="AddButton.Anchor" type="System.Windows.Forms.AnchorStyles, System.Windows.Forms">
     <value>None</value>
-  </data>
-  <data name="&gt;&gt;statusStrip1.Type" xml:space="preserve">
-    <value>System.Windows.Forms.StatusStrip, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="Status.Size" type="System.Drawing.Size, System.Drawing">
-    <value>94, 17</value>
-  </data>
-  <data name="ChoicelistBox.ToolTip" xml:space="preserve">
-    <value>所有选项</value>
-  </data>
-  <data name="ChoicelistBox.Items3" xml:space="preserve">
-    <value>4</value>
-  </data>
-  <data name="AddButton.Size" type="System.Drawing.Size, System.Drawing">
-    <value>25, 23</value>
-  </data>
-  <data name="&gt;&gt;Status.Name" xml:space="preserve">
-    <value>Status</value>
-  </data>
-  <data name="ChoicecomboBox.ToolTip" xml:space="preserve">
-    <value>所有选项</value>
   </data>
   <data name="&gt;&gt;AddButton.Type" xml:space="preserve">
     <value>System.Windows.Forms.Button, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
-  <data name="DELButton.Text" xml:space="preserve">
-    <value>-</value>
+  <data name="StringBox.Size" type="System.Drawing.Size, System.Drawing">
+    <value>218, 23</value>
   </data>
-  <data name="StartButton.TabIndex" type="System.Int32, mscorlib">
-    <value>7</value>
+  <data name="&gt;&gt;DELButton.Name" xml:space="preserve">
+    <value>DELButton</value>
   </data>
-  <data name="DELButton.Size" type="System.Drawing.Size, System.Drawing">
-    <value>25, 23</value>
+  <data name="ChoicecomboBox.Items3" xml:space="preserve">
+    <value>4</value>
   </data>
-  <data name="DELButton.Location" type="System.Drawing.Point, System.Drawing">
-    <value>255, 381</value>
+  <data name="StringBox.Location" type="System.Drawing.Point, System.Drawing">
+    <value>7, 381</value>
+  </data>
+  <data name="ChoicelistBox.TabIndex" type="System.Int32, mscorlib">
+    <value>5</value>
+  </data>
+  <data name="StringBox.TabIndex" type="System.Int32, mscorlib">
+    <value>10</value>
+  </data>
+  <data name="&gt;&gt;statusStrip1.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <data name="&gt;&gt;ProgressBar.Name" xml:space="preserve">
+    <value>ProgressBar</value>
+  </data>
+  <data name="$this.AutoScaleDimensions" type="System.Drawing.SizeF, System.Drawing">
+    <value>7, 17</value>
+  </data>
+  <data name="DELButton.ToolTip" xml:space="preserve">
+    <value>Delete list option</value>
+  </data>
+  <data name="&gt;&gt;$this.Name" xml:space="preserve">
+    <value>Form1</value>
+  </data>
+  <data name="Status.Size" type="System.Drawing.Size, System.Drawing">
+    <value>94, 17</value>
   </data>
   <data name="ChoicecomboBox.Size" type="System.Drawing.Size, System.Drawing">
     <value>273, 25</value>
+  </data>
+  <data name="ChoicelistBox.ItemHeight" type="System.Int32, mscorlib">
+    <value>17</value>
+  </data>
+  <data name="Status.Text" xml:space="preserve">
+    <value>WaitCommand</value>
+  </data>
+  <data name="$this.Text" xml:space="preserve">
+    <value>RandomChoice</value>
+  </data>
+  <data name="&gt;&gt;ChoicelistBox.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ListBox, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="ProgressBar.Size" type="System.Drawing.Size, System.Drawing">
+    <value>100, 16</value>
+  </data>
+  <data name="ChoicelistBox.Items1" xml:space="preserve">
+    <value>2</value>
+  </data>
+  <data name="statusStrip1.Size" type="System.Drawing.Size, System.Drawing">
+    <value>290, 22</value>
+  </data>
+  <data name="&gt;&gt;statusStrip1.Name" xml:space="preserve">
+    <value>statusStrip1</value>
+  </data>
+  <data name="&gt;&gt;StartButton.Name" xml:space="preserve">
+    <value>StartButton</value>
+  </data>
+  <data name="&gt;&gt;StringBox.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;toolTip1.Name" xml:space="preserve">
+    <value>toolTip1</value>
   </data>
   <data name="&gt;&gt;$this.Type" xml:space="preserve">
     <value>System.Windows.Forms.Form, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
@@ -219,124 +204,139 @@
   <data name="ChoicelistBox.Items" xml:space="preserve">
     <value>1</value>
   </data>
+  <data name="AddButton.Text" xml:space="preserve">
+    <value>+</value>
+  </data>
   <data name="&gt;&gt;ChoicecomboBox.Name" xml:space="preserve">
     <value>ChoicecomboBox</value>
   </data>
-  <data name="&gt;&gt;ChoicelistBox.Name" xml:space="preserve">
-    <value>ChoicelistBox</value>
-  </data>
-  <data name="&gt;&gt;$this.Name" xml:space="preserve">
-    <value>Form1</value>
-  </data>
-  <data name="&gt;&gt;AddButton.ZOrder" xml:space="preserve">
-    <value>3</value>
-  </data>
-  <data name="StartButton.Size" type="System.Drawing.Size, System.Drawing">
-    <value>273, 30</value>
-  </data>
-  <data name="&gt;&gt;ChoicecomboBox.Parent" xml:space="preserve">
-    <value>$this</value>
-  </data>
-  <data name="&gt;&gt;StartButton.Parent" xml:space="preserve">
-    <value>$this</value>
-  </data>
-  <data name="&gt;&gt;ChoicecomboBox.Type" xml:space="preserve">
-    <value>System.Windows.Forms.ComboBox, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="ProgressBar.Size" type="System.Drawing.Size, System.Drawing">
-    <value>100, 16</value>
-  </data>
-  <data name="&gt;&gt;toolTip1.Name" xml:space="preserve">
-    <value>toolTip1</value>
+  <data name="&gt;&gt;DELButton.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
   <data name="ChoicecomboBox.Location" type="System.Drawing.Point, System.Drawing">
     <value>7, 2</value>
   </data>
-  <data name="&gt;&gt;DELButton.Parent" xml:space="preserve">
+  <data name="$this.ToolTip" xml:space="preserve">
+    <value />
+  </data>
+  <data name="&gt;&gt;ChoicelistBox.Parent" xml:space="preserve">
     <value>$this</value>
   </data>
-  <data name="statusStrip1.Location" type="System.Drawing.Point, System.Drawing">
-    <value>0, 418</value>
+  <data name="&gt;&gt;ChoicecomboBox.ZOrder" xml:space="preserve">
+    <value>6</value>
   </data>
-  <data name="Status.Text" xml:space="preserve">
-    <value>WaitCommand</value>
+  <data name="&gt;&gt;StartButton.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
-  <data name="&gt;&gt;AddButton.Parent" xml:space="preserve">
+  <data name="&gt;&gt;statusStrip1.Parent" xml:space="preserve">
     <value>$this</value>
+  </data>
+  <data name="AddButton.ToolTip" xml:space="preserve">
+    <value>Add Options</value>
+  </data>
+  <data name="&gt;&gt;ChoicecomboBox.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ComboBox, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;Status.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ToolStripStatusLabel, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="DELButton.Location" type="System.Drawing.Point, System.Drawing">
+    <value>255, 381</value>
+  </data>
+  <data name="&gt;&gt;ChoicelistBox.Name" xml:space="preserve">
+    <value>ChoicelistBox</value>
   </data>
   <data name="StartButton.Anchor" type="System.Windows.Forms.AnchorStyles, System.Windows.Forms">
     <value>None</value>
   </data>
+  <data name="$this.ClientSize" type="System.Drawing.Size, System.Drawing">
+    <value>290, 440</value>
+  </data>
+  <data name="statusStrip1.Location" type="System.Drawing.Point, System.Drawing">
+    <value>0, 418</value>
+  </data>
+  <data name="AddButton.Location" type="System.Drawing.Point, System.Drawing">
+    <value>231, 381</value>
+  </data>
   <data name="StartButton.ToolTip" xml:space="preserve">
-    <value>开始随机:
-从当前页面文件中随机选择一个选项</value>
+    <value>Start random:
+Select a random option from the current page file</value>
   </data>
-  <data name="ChoicelistBox.Anchor" type="System.Windows.Forms.AnchorStyles, System.Windows.Forms">
-    <value>None</value>
+  <data name="ChoicelistBox.ToolTip" xml:space="preserve">
+    <value>All options</value>
   </data>
-  <data name="&gt;&gt;StartButton.ZOrder" xml:space="preserve">
-    <value>4</value>
+  <data name="DELButton.Text" xml:space="preserve">
+    <value>-</value>
+  </data>
+  <data name="&gt;&gt;StringBox.Name" xml:space="preserve">
+    <value>StringBox</value>
   </data>
   <data name="Status.ToolTipText" xml:space="preserve">
     <value>Current Status:
 Represents the selection and generation state</value>
   </data>
-  <data name="&gt;&gt;ChoicecomboBox.ZOrder" xml:space="preserve">
-    <value>6</value>
-  </data>
-  <data name="ChoicecomboBox.Anchor" type="System.Windows.Forms.AnchorStyles, System.Windows.Forms">
+  <data name="StringBox.Anchor" type="System.Windows.Forms.AnchorStyles, System.Windows.Forms">
     <value>None</value>
   </data>
-  <data name="&gt;&gt;ProgressBar.Name" xml:space="preserve">
-    <value>ProgressBar</value>
-  </data>
-  <data name="ChoicelistBox.ItemHeight" type="System.Int32, mscorlib">
-    <value>17</value>
-  </data>
-  <data name="&gt;&gt;AddButton.Name" xml:space="preserve">
-    <value>AddButton</value>
-  </data>
-  <data name="StringBox.Size" type="System.Drawing.Size, System.Drawing">
-    <value>218, 23</value>
-  </data>
-  <data name="&gt;&gt;StringBox.Type" xml:space="preserve">
-    <value>System.Windows.Forms.TextBox, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="ChoicecomboBox.Items1" xml:space="preserve">
-    <value>2</value>
-  </data>
-  <data name="$this.ToolTip" xml:space="preserve">
-    <value />
-  </data>
-  <data name="DELButton.ToolTip" xml:space="preserve">
-    <value>删除选项</value>
-  </data>
-  <data name="ProgressBar.ToolTipText" xml:space="preserve">
-    <value>Command Progress</value>
-  </data>
-  <data name="&gt;&gt;ChoicelistBox.ZOrder" xml:space="preserve">
-    <value>5</value>
-  </data>
-  <data name="$this.ClientSize" type="System.Drawing.Size, System.Drawing">
-    <value>290, 440</value>
-  </data>
-  <data name="&gt;&gt;ChoicelistBox.Type" xml:space="preserve">
-    <value>System.Windows.Forms.ListBox, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;statusStrip1.Name" xml:space="preserve">
-    <value>statusStrip1</value>
-  </data>
-  <data name="ChoicecomboBox.TabIndex" type="System.Int32, mscorlib">
-    <value>0</value>
-  </data>
-  <data name="statusStrip1.ToolTip" xml:space="preserve">
-    <value />
+  <data name="StringBox.ToolTip" xml:space="preserve">
+    <value>[input] string</value>
   </data>
   <data name="ChoicelistBox.Items2" xml:space="preserve">
     <value>3</value>
   </data>
-  <data name="ChoicecomboBox.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
-    <value>NoControl</value>
+  <data name="ChoicelistBox.Location" type="System.Drawing.Point, System.Drawing">
+    <value>7, 33</value>
+  </data>
+  <data name="&gt;&gt;DELButton.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="DELButton.Size" type="System.Drawing.Size, System.Drawing">
+    <value>25, 23</value>
+  </data>
+  <data name="&gt;&gt;StartButton.ZOrder" xml:space="preserve">
+    <value>4</value>
+  </data>
+  <data name="&gt;&gt;toolTip1.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ToolTip, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="StartButton.Location" type="System.Drawing.Point, System.Drawing">
+    <value>7, 349</value>
+  </data>
+  <data name="statusStrip1.Text" xml:space="preserve">
+    <value>statusStrip1</value>
+  </data>
+  <data name="statusStrip1.ToolTip" xml:space="preserve">
+    <value />
+  </data>
+  <data name="StartButton.Text" xml:space="preserve">
+    <value>Start Random</value>
+  </data>
+  <data name="&gt;&gt;AddButton.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="statusStrip1.TabIndex" type="System.Int32, mscorlib">
+    <value>11</value>
+  </data>
+  <data name="&gt;&gt;Status.Name" xml:space="preserve">
+    <value>Status</value>
+  </data>
+  <data name="ChoicecomboBox.ToolTip" xml:space="preserve">
+    <value>All options</value>
+  </data>
+  <data name="ChoicelistBox.Items3" xml:space="preserve">
+    <value>4</value>
+  </data>
+  <data name="&gt;&gt;AddButton.ZOrder" xml:space="preserve">
+    <value>3</value>
+  </data>
+  <data name="ChoicecomboBox.Items1" xml:space="preserve">
+    <value>2</value>
+  </data>
+  <data name="&gt;&gt;ChoicelistBox.ZOrder" xml:space="preserve">
+    <value>5</value>
+  </data>
+  <data name="ChoicecomboBox.Items" xml:space="preserve">
+    <value>1</value>
   </data>
   <metadata name="$this.Localizable" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
     <value>True</value>
@@ -344,13 +344,13 @@ Represents the selection and generation state</value>
   <metadata name="$this.Language" type="System.Globalization.CultureInfo, System.Private.CoreLib, Culture=neutral, PublicKeyToken=7cec85d7bea7798e">
     <value>zh-Hans</value>
   </metadata>
+  <metadata name="toolTip1.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>17, 17</value>
+  </metadata>
   <metadata name="$this.TrayHeight" type="System.Int32, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
     <value>79</value>
   </metadata>
   <metadata name="statusStrip1.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
     <value>118, 17</value>
-  </metadata>
-  <metadata name="toolTip1.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
-    <value>17, 17</value>
   </metadata>
 </root>

@@ -47,7 +47,7 @@ namespace RandomChoice
             ProgressBar.Value = 67;
             Status.Text = "RandomNameber:"+num;
             ProgressBar.Value = 80;
-            string st=ChoicecomboBox.GetItemText(num);
+            string st=ChoicecomboBox.GetItemText(ChoicecomboBox.Items[num]);
             ProgressBar.Value = 90;
             Status.Text = "Random result:"+st;
             ProgressBar.Value = 100;
